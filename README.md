@@ -1,1 +1,3 @@
-# .github
+# RockAI
+
+![rockai](imgs/rockai.png)
